@@ -3,7 +3,7 @@ Student Name: Jacob Gowan
 Student NetID: jag1065
 Compiler Used: Visual Studio
 Program Description:
-This program manages simulates
+This program simulates a password manager
 */
 
 #include "Hash.h"
